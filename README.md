@@ -1,4 +1,5 @@
-<img src="assets/forest_banner.gif"  width="100%" height="300">
+<div align="center">
+<img src="assets/welcome.gif"  width="100%" height="300">
 
 # I'm Aditya! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
