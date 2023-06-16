@@ -9,7 +9,7 @@ I'm a Security enthusiast and Software Developer who loves dabbling in cryptogra
 ### Lets connect!!!
 <img src="assets/connection.gif" width=100 height=80>
 
-[`➡️ aditya-chaudhari-300`](https://www.linkedin.com/in/aditya-chaudhari300/)
+[`➡️ aditya-chaudhari300`](https://www.linkedin.com/in/aditya-chaudhari300/)
 [`📫 adityapchaudhari@gmail.com`](mailto:adityapchaudhari@gmail.com)
 [`📧 chaud105@msu.edu`](mailto:chaud105@msu.edu)
 [`🐦 @aditya_C24`](https://twitter.com/aditya_C24)
