@@ -14,3 +14,8 @@ I'm a Security enthusiast and Software Developer who loves dabbling in cryptogra
 [`📧 chaud105@msu.edu`](mailto:chaud105@msu.edu)
 [`🐦 @aditya_C24`](https://twitter.com/aditya_C24)
 
+---
+
+You are visitor number:
+
+![Visitor Count](https://profile-counter.glitch.me/AdityaC4/count.svg)
