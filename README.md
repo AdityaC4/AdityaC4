@@ -4,9 +4,9 @@
 
 > /a-dit-tya/
 
-I'm a Security enthusiast and Software Developer who loves dabbling in cryptography, networks, and CTFs. I'm a college student, love Mathematics, and want to learn more about how the world works.
+✒️ I'm a Security enthusiast and Software Developer who loves dabbling in cryptography, networks, and CTFs. I'm a college student, love Mathematics, and want to learn more about how the world works.
 
-### Lets connect!!!
+### 🔗 Lets connect!!!
 <img src="assets/connection.gif" width=100 height=70>
 
 <a href="mailto:adityapchaudhari@gmail.com"><img src="assets/email_icon.gif"></a>
@@ -16,11 +16,15 @@ I'm a Security enthusiast and Software Developer who loves dabbling in cryptogra
 [`📧 chaud105@msu.edu`](mailto:chaud105@msu.edu)
 [`🐦 @aditya_C24`](https://twitter.com/aditya_C24)
 
-<details>
+🔐 My TryHackMe
 
+<a href="https://tryhackme.com/p/chaud105"><img src="https://tryhackme-badges.s3.amazonaws.com/chaud105.png"></a>
+
+<details>
 <summary>My Github Stats</summary>
 
 ![AdityaC4's github stats](https://github-readme-stats.vercel.app/api?username=AdityaC4&theme=github_dark_dimmed&show_icons=true)
+
 </details>
 
 ---
