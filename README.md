@@ -6,10 +6,10 @@
 
 ✒️ I'm a Security enthusiast and Software Developer who loves dabbling in cryptography, networks, and CTFs. I'm a college student, love Mathematics, and want to learn more about how the world works.
 
-### 🔗 Lets connect!!!
+### 🔗 Let's connect!!!
 <img src="assets/connection.gif" width=100 height=70>
 
-<a href="mailto:adityapchaudhari@gmail.com"><img src="assets/email_icon.gif"></a>
+<a href="mailto:adityapchaudhari@gmail.com" target="_blank"><img src="assets/email_icon.gif"></a>
 
 [`➡️ aditya-chaudhari300`](https://www.linkedin.com/in/aditya-chaudhari300/)
 [`📫 adityapchaudhari@gmail.com`](mailto:adityapchaudhari@gmail.com)
