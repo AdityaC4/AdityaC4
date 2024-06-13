@@ -21,13 +21,16 @@ My TryHackMe profile
 
 <a href="https://tryhackme.com/p/chaud105"><img src="https://tryhackme-badges.s3.amazonaws.com/chaud105.png" alt="TryHackMe"></a>
 
-<summary>My Github Stats</summary>
-
 Visitor number:
 
 ![Visitor Count](https://profile-counter.glitch.me/AdityaC4/count.svg)
 
-💾EOF
+```
+ _____       _
+|   __|___  |_|___ _ _    _____ _ _    ___ ___ ___ ___ ___
+|   __|   | | | . | | |  |     | | |  |  _| -_| . | . |_ -|
+|_____|_|_|_| |___|_  |  |_|_|_|_  |  |_| |___|  _|___|___|
+          |___|   |___|        |___|          |_|
+```
 
-<img src="./assets/homersimpson.gif">
-have fun in my repos
+💾EOF
