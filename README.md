@@ -1,4 +1,3 @@
-<div style="background-color:black;color:green;>
 ```
             .___.__  __                          .__                     .___.__                 .__
 _____     __| _/|__|/  |_ ___.__._____      ____ |  |__ _____   __ __  __| _/|  |__ _____ _______|__|
@@ -31,5 +30,3 @@ Visitor number:
 ![Visitor Count](https://profile-counter.glitch.me/AdityaC4/count.svg)
 
 ###### 💾 EOF
-
-</div>
