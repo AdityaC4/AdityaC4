@@ -23,10 +23,11 @@ My TryHackMe profile
 
 <summary>My Github Stats</summary>
 
-![AdityaC4's github stats](https://github-readme-stats.vercel.app/api?username=AdityaC4&theme=github_dark_dimmed&show_icons=true)
-
 Visitor number:
 
 ![Visitor Count](https://profile-counter.glitch.me/AdityaC4/count.svg)
 
-###### 💾 EOF
+💾EOF
+
+<img src="https://i.gifer.com/XSNt.gif">
+have fun in my repos
