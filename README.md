@@ -7,7 +7,7 @@ _____     __| _/|__|/  |_ ___.__._____      ____ |  |__ _____   __ __  __| _/|  
      \/      \/           \/          \/       \/     \/     \/           \/      \/     \/
 ```
 
-# Hi my name is Aditya Chaudhari
+# Hi! I am Aditya Chaudhari 🕵️‍♂️
 
 > /a-dit-tya/
 
@@ -29,5 +29,5 @@ Visitor number:
 
 💾EOF
 
-<img src="https://i.gifer.com/XSNt.gif">
+<img src="./assets/homersimpson.gif">
 have fun in my repos
