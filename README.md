@@ -12,7 +12,9 @@
 ---
 
 _serendipity over structure_
-_moss over metal_ 
+
+_moss over metal_
+
 _entropy over order_  
 
 ---
