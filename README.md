@@ -1,19 +1,24 @@
-# Hi! I am Aditya Chaudhari 🕵️‍♂️
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="byte society banner" width="100%" height="200px"/>
+</p>
 
+### 🌿 byte society  
 > /a-dit-tya/
 
-I’m a security enthusiast and full-stack developer who loves diving into cryptography, networks, and CTFs. I’m fascinated by how everything (especially code) works.
+_in a world of specialization, I wander._
 
-### 🔗 Let's connect!!!
+- 🧠 AI security researcher  
+- 🛠️ Hobbyist reverse engineer  
+- 🌱 Quietly breaking & understanding things  
 
-[`Email`](mailto:adityapchaudhari@gmail.com) [`LinkedIn`](https://www.linkedin.com/in/adityac4/) [`X`](https://twitter.com/aditya_C24)
+---
 
-My TryHackMe profile
+> serendipity over structure  
+> moss over metal  
+> entropy over order  
 
-<a href="https://tryhackme.com/p/chaud105"><img src="https://tryhackme-badges.s3.amazonaws.com/chaud105.png" alt="TryHackMe"></a>
+---
 
-Visitor number:
-
-![Visitor Count](https://profile-counter.glitch.me/AdityaC4/count.svg)
-
-💾EOF
+### ✧ elsewhere  
+[x](https://x.com/aditya_C24) ・ [linkedin](https://linkedin.com/in/adityac4)  
+<!-- ・ [blog](https://your-blog.com) -->
