@@ -5,17 +5,15 @@
 ### 🌿 byte society  
 > /a-dit-tya/
 
-_in a world of specialization, I wander._
-
 - 🧠 AI security researcher  
 - 🛠️ Hobbyist reverse engineer  
 - 🌱 Quietly breaking & understanding things  
 
 ---
 
-> serendipity over structure  
-> moss over metal  
-> entropy over order  
+_serendipity over structure_
+_moss over metal_ 
+_entropy over order_  
 
 ---
 
