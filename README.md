@@ -20,5 +20,5 @@ _entropy over order_
 ---
 
 ### ✧ elsewhere  
-[x](https://x.com/aditya_C24) ・ [linkedin](https://linkedin.com/in/adityac4) ・ [e-mail](adityapchaudhari@gmail.com) 
+[x](https://x.com/aditya_C24) ・ [linkedin](https://linkedin.com/in/adityac4) ・ [e-mail](mailto:adityapchaudhari@gmail.com) 
 <!-- ・ [blog](https://your-blog.com) -->
