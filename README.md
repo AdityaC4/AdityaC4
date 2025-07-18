@@ -5,17 +5,7 @@
 ### 🌿 byte society  
 > /a-dit-tya/
 
-- 🧠 AI security researcher  
-- 🛠️ Hobbyist reverse engineer  
-- 🌱 Quietly breaking & understanding things  
-
----
-
-_serendipity over structure_
-
-_moss over metal_
-
-_entropy over order_  
+🌱 Quietly breaking & understanding things  
 
 ---
 
