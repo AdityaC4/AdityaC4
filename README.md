@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/adityac4/adityac4/main/banner.png" alt="byte society banner" style="height: 300px; width: 100%; object-fit: cover;"/>
 </p>
 
-### 🌿 byte society  
 > /a-dit-tya/
 
 🌱 Quietly breaking & understanding things  
